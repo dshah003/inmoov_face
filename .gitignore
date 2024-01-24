@@ -1,0 +1,11 @@
+build/
+devel/
+*.log
+.vscode
+.rospack_cache
+/src/*/build/
+/src/*/devel/
+/src/*/.catkin_workspace
+*.bin
+*.so
+.catkin_workspace
